@@ -1,0 +1,91 @@
+                                                   RESUME
+
+
+PERSONAL INFORMATION
+
+first name : Abhinav
+
+last name : Singh
+
+gender : male
+
+email-id : abhi@gmail.com
+
+phone number : 888888888
+
+address : gkp,UP
+
+
+
+
+QUALIFICATIONS
+
+College name : NIT DELHI
+
+Percentage/cgpa: 8.98
+
+Graduation year : 2020
+
+School name(xth): Gn public school,gkp
+
+percentage/cgpa: 10
+
+year: : 2016
+
+School name(xiith): Gn public school,gkp
+
+percentage/cgpa: 95%
+
+year: : 2018
+
+
+
+
+PROJECTS AND WORK EXPERIENCE
+
+project name: : enter project name
+
+project starting date : dd-mm-yyyy
+
+project ending date : dd-mm-yyyy
+
+project description:  : enter your project description here
+
+project name: : enter project name
+
+project starting date : dd-mm-yyyy
+
+project ending date : dd-mm-yyyy
+
+project description: : enter your project description here
+
+
+
+
+SKILLS AND HOBBIES
+
+SKILLS
+
+skill-1: c
+
+skill-2: java
+
+skill-3: web development 
+
+HOBBIES
+
+hobby-1: playing games
+
+hobby-2: driving cars
+
+hobby-3: singing
+
+
+ACHIVEMENTS
+
+achivement-1: ----------------
+
+achivement-2: ---------------- 
+
+achivement-3: -----------------
+
