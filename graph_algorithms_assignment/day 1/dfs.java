@@ -34,7 +34,7 @@ class graph
   //function to perform dfs.
   public void DFS(int s)
   {
-    // creation of a stack.
+    
     visited[s] =1;
     System.out.print(s +", ");
     Iterator<Integer> i = adj[s].listIterator();
